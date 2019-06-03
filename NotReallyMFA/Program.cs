@@ -23,7 +23,7 @@ namespace NotReallyMFA
             }
         }
 
-
+        //https://blogs.technet.microsoft.com/cloudpfe/2014/10/26/using-time-based-one-time-passwords-for-multi-factor-authentication-in-ad-fs-3-0/
         #region TOTP
         #region TOTP Settings
         static int intervalDrift = 3;
