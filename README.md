@@ -25,5 +25,5 @@ I needed to test if my 2FA implementation was working and I didn’t want to use
 
 That’s like 4 birds with one stone…. 
 
-This virtually allows anything that can call a command line the ability to respond to MFA challenges. I'm certain there are other better options out there. This application allows me to trouble shoot MFA applications and test BASE32 tokens without having to use my phone or a hardware token. 
+This virtually allows anything that can call a command line the ability to respond to MFA challenges. I'm certain there are other better options out there. 
 
