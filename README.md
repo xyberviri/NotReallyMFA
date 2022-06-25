@@ -9,6 +9,8 @@ Do you need to test your MFA/2FA implementation and don’t want to add a bunch 
 
 # NotReallyMFA to the notReallyRescue.
 
+![NotReallyMFA.exe](https://github.com/xyberviri/NotReallyMFA/blob/master/NotReallyMFA.gif)
+
 Simply call `NotReallyMFA <BASE32Key>` and it will return the TOTP code for that base32key. 
 
 Don't have a base32key to give to the end user? Simply call `NotReallyMFA` for a randomly generated base 32key.
